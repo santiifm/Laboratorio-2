@@ -1,0 +1,14 @@
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.csproj.AssemblyReference.cache
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.AssemblyInfo.cs
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\bin\Debug\netcoreapp3.1\TP1EJ4.exe
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\bin\Debug\netcoreapp3.1\TP1EJ4.deps.json
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\bin\Debug\netcoreapp3.1\TP1EJ4.runtimeconfig.json
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\bin\Debug\netcoreapp3.1\TP1EJ4.runtimeconfig.dev.json
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\bin\Debug\netcoreapp3.1\TP1EJ4.dll
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\bin\Debug\netcoreapp3.1\TP1EJ4.pdb
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.dll
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.pdb
+C:\Users\Santi\Documents\Facultad\Laboratorio 2\TP1\TP1EJ4\obj\Debug\netcoreapp3.1\TP1EJ4.genruntimeconfig.cache
