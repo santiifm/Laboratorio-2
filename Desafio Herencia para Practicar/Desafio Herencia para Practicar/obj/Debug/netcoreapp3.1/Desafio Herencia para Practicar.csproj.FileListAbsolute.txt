@@ -1,0 +1,14 @@
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\bin\Debug\netcoreapp3.1\Desafio Herencia para Practicar.exe
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\bin\Debug\netcoreapp3.1\Desafio Herencia para Practicar.deps.json
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\bin\Debug\netcoreapp3.1\Desafio Herencia para Practicar.runtimeconfig.json
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\bin\Debug\netcoreapp3.1\Desafio Herencia para Practicar.runtimeconfig.dev.json
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\bin\Debug\netcoreapp3.1\Desafio Herencia para Practicar.dll
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\bin\Debug\netcoreapp3.1\Desafio Herencia para Practicar.pdb
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.csproj.AssemblyReference.cache
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.AssemblyInfoInputs.cache
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.AssemblyInfo.cs
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.csproj.CoreCompileInputs.cache
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.dll
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.pdb
+C:\Users\Santi\source\repos\Desafio Herencia para Practicar\Desafio Herencia para Practicar\obj\Debug\netcoreapp3.1\Desafio Herencia para Practicar.genruntimeconfig.cache
